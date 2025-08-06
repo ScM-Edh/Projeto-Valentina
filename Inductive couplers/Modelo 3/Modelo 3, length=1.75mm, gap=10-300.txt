@@ -1,0 +1,280 @@
+20um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.53034, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1418.28578   -511.94864   -726.07610
+trace_CAP31               -511.94864    587.81323    -74.72785
+trace_CAP32               -726.07610    -74.72785    803.45411, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            360  3.49190
+3           1140  3.18410
+4           1564  2.14360
+5           2128  2.33640
+6           2896  2.75070
+7           3940  3.23360
+8           5360  3.49650
+9           7012  3.20810
+10          9544  1.91720
+11         12984  1.00770
+12         17660  1.49190
+13         24022  1.13830
+14         32678  0.36322
+15         44330  0.53034}
+30um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.50382, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1532.98043   -568.38358   -783.94345
+trace_CAP31               -568.38358    601.99211    -32.68711
+trace_CAP32               -783.94345    -32.68711    819.26253, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            378  3.07430
+3           1138  2.23000
+4           1552  2.97420
+5           2122  1.54750
+6           2920  2.79840
+7           3972  3.15370
+8           5404  2.75030
+9           7068  2.77340
+10          9640  2.03070
+11         13112  1.00890
+12         17834  1.23400
+13         24256  1.30460
+14         32990  0.56435
+15         44868  0.50382}
+40um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.50006, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1559.51096   -580.63794   -798.42861
+trace_CAP31               -580.63794    601.93512    -20.35084
+trace_CAP32               -798.42861    -20.35084    821.40513, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            378  2.88550
+3           1238  2.77850
+4           1688  2.87410
+5           2296  1.00980
+6           3130  2.74620
+7           4260  2.94490
+8           5798  3.09640
+9           7600  2.67280
+10         10338  1.60190
+11         14060  0.94089
+12         19058  1.49810
+13         25922  1.15820
+14         35256  0.46850
+15         47950  0.50006}
+50um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.43548, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1568.07587   -584.33080   -803.33895
+trace_CAP31               -584.33080    599.84395    -14.30666
+trace_CAP32               -803.33895    -14.30666    820.26573, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            362  3.11020
+3           1172  2.81790
+4           1598  2.34290
+5           2180  2.18170
+6           2966  2.26600
+7           4036  2.26380
+8           5492  2.65860
+9           7160  2.93830
+10          9740  2.12020
+11         13248  1.06560
+12         18020  1.33460
+13         24522  1.29260
+14         33350  0.66715
+15         45358  0.43548}
+60um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.48349, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1573.91590   -586.32140   -807.30663
+trace_CAP31               -586.32140    598.33758    -10.70628
+trace_CAP32               -807.30663    -10.70628    820.63123, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            384  2.90760
+3           1186  2.68560
+4           1616  2.39100
+5           2198  2.08100
+6           2998  2.32200
+7           4078  2.89230
+8           5548  2.66780
+9           7322  2.84690
+10          9958  1.81170
+11         13544  1.04020
+12         18420  1.48130
+13         25052  1.28040
+14         34074  0.56454
+15         46342  0.48349}
+70um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.50904, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1576.59808   -586.97833   -809.23191
+trace_CAP31               -586.97833    596.65146     -8.43160
+trace_CAP32               -809.23191     -8.43160    820.28786, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            362  2.96770
+3           1166  2.60780
+4           1592  2.13820
+5           2168  2.16790
+6           2950  2.41610
+7           4014  2.34630
+8           5460  2.71250
+9           7224  3.04690
+10          9826  2.17950
+11         13368  1.23350
+12         18184  1.31380
+13         24732  1.32260
+14         33636  0.63799
+15         45746  0.50904}
+80um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.42516, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1577.11204   -586.12999   -810.39559
+trace_CAP31               -586.12999    594.21245     -6.83901
+trace_CAP32               -810.39559     -6.83901    819.82178, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            362  3.02630
+3           1140  2.75370
+4           1556  2.12570
+5           2120  1.56110
+6           2884  2.36010
+7           3924  2.78510
+8           5338  2.86730
+9           7136  2.99890
+10          9708  2.33010
+11         13204  1.27530
+12         17960  1.14280
+13         24272  1.21560
+14         33014  0.92061
+15         44904  0.42516}
+90um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.44118, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1577.87338   -585.43286   -811.94056
+trace_CAP31               -585.43286    592.38147     -5.64465
+trace_CAP32               -811.94056     -5.64465    820.18022, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            362  3.03090
+3           1144  2.77130
+4           1560  2.12970
+5           2122  1.58170
+6           2886  2.33740
+7           3926  2.93950
+8           5340  2.93050
+9           7150  3.13510
+10          9682  2.28380
+11         13170  1.15620
+12         17912  1.19660
+13         24332  1.26420
+14         33092  0.83332
+15         45006  0.44118}
+125um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.4597, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1576.64970   -581.63612   -813.71051
+trace_CAP31               -581.63612    585.82433     -3.26909
+trace_CAP32               -813.71051     -3.26909    819.46944, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            360   2.3724
+3           1112   2.5376
+4           1514   1.3327
+5           2060   1.7135
+6           2812   3.3565
+7           3830   2.8485
+8           5210   3.2738
+9           6982   3.1094
+10          9240   2.2779
+11         12570   1.4273
+12         17096   1.0542
+13         22708   1.2027
+14         30886   1.1130
+15         42006   0.4597}
+150um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.4264, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1573.48473   -578.05630   -814.62708
+trace_CAP31               -578.05630    581.71990     -2.43163
+trace_CAP32               -814.62708     -2.43163    819.62685, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            360   2.3273
+3           1114   2.6041
+4           1516   1.2893
+5           2062   1.7511
+6           2816   3.5249
+7           3830   2.8866
+8           5210   3.3720
+9           7002   3.1856
+10          9262   2.3424
+11         12600   1.3853
+12         17138   1.0153
+13         22808   1.2355
+14         31020   1.0843
+15         42188   0.4264}
+175um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.46751, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1571.67296   -575.27285   -815.44167
+trace_CAP31               -575.27285    578.37851     -1.94046
+trace_CAP32               -815.44167     -1.94046    819.83788, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            360  2.17810
+3           1116  2.66100
+4           1520  1.42790
+5           2074  2.04640
+6           2830  3.67610
+7           3850  2.69210
+8           5240  3.74680
+9           7084  3.26090
+10          9430  2.29580
+11         12826  1.25870
+12         17444  1.09690
+13         23446  1.23530
+14         31888  0.98708
+15         43372  0.46751}
+225um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.39516, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1561.53017   -566.78952   -813.40905
+trace_CAP31               -566.78952    569.03160     -1.29105
+trace_CAP32               -813.40905     -1.29105    817.18618, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            328  2.33250
+3           1032  2.44770
+4           1410  2.94030
+5           1928  1.75230
+6           2624  1.84090
+7           3582  3.53150
+8           4886  4.29590
+9           6646  3.52880
+10          8762  2.42870
+11         11918  1.35260
+12         16212  1.00310
+13         21536  1.34060
+14         29290  1.11420
+15         39836  0.39516}
+250um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.43601, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1559.67075   -563.15628   -815.29799
+trace_CAP31               -563.15628    565.33857     -1.09996
+trace_CAP32               -815.29799     -1.09996    818.88651, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            346  2.69240
+3           1070  2.99050
+4           1460  1.78070
+5           1986  1.66320
+6           2720  4.28560
+7           3700  3.51530
+8           5034  3.30200
+9           6802  3.22990
+10          8954  2.26910
+11         12178  1.44950
+12         16564  0.99683
+13         22038  1.31490
+14         29972  1.05680
+15         40762  0.43601}
+275um: {'option_name': 'pos_y', 'convergence_target': 0.2, 'convergence_current': 0.45099, 'min_number_passes': 2, 'is_convergence': False, 'capacitance': (                   ground_main_plane  trace_CAP31  trace_CAP32
+ground_main_plane         1558.60798   -560.46537   -817.12651
+trace_CAP31               -560.46537    562.20258     -0.95167
+trace_CAP32               -817.12651     -0.95167    820.66720, 'fF'), 'convergence_data':       # Triangle  Delta %
+Pass                     
+1            100      NaN
+2            356  1.94340
+3           1112  2.58190
+4           1520  2.40990
+5           2084  1.76870
+6           2858  3.90420
+7           3888  3.58870
+8           5290  3.15030
+9           7034  3.19090
+10          9568  2.13210
+11         13014  1.45420
+12         17700  1.24640
+13         24074  1.28130
+14         32742  0.88052
+15         44534  0.45099}
